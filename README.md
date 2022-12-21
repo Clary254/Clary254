@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clary254" alt="clary254" /></a> </p>
 
-- 🔭 I’m currently working on **Toshe FActories**
+- 🔭 I’m currently working on **Toshe Factories**
 
 - 🌱 I’m currently learning **Information Technology**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/clarencesongore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/clarencesongore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/clarence-songore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clarence-songore" height="30" width="40" /></a>
+<a href="https://twitter.com/clarencesongore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/clarencesongore" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/clarence-songore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clarence-songore" height="30" width="40" /></a>
 <a href="https://fb.com/songore clarence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="songore clarence" height="30" width="40" /></a>
 </p>
 
