@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Arduino**
 
-- 💬 Ask me about **vi,emacs,C,shell,Mysql,HTML,CSS,Python**
+- 💬 Ask me about **vi,emacs,C,shell,Mysql,HTML,CSS,Python,Cyber Security,Information Systems**
 
 - 📫 How to reach me **renauto254@outlook.com**
 
