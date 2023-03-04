@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clary254" alt="clary254" /></a> </p>
 
-- 🔭 I’m currently working on **Toshe Factories**
+- 🔭 I’m currently working at **Blessed Phones & Computer Accesories**
 
 - 🌱 I’m currently learning **Information Technology**
 
