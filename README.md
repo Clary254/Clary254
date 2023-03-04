@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 👯 I’m looking to collaborate on **C Projects**
+- 👯 I’m looking to collaborate on **C & Python Projects**
 
 - 🤝 I’m looking for help with **Arduino**
 
